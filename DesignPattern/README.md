@@ -1,14 +1,14 @@
 # Design Pattern
 
 Design pattern describe simple and elegant solution to specific problem in object-oriented software solution.
-This all can be implement in standard object-oriented language like C++, Java, c# etc.
+Design patterns can be implement in any standard object-oriented language like C++, Java, c# etc.
 It can take a little more work. but this effort will increase code flexibility and reusability.
 
 ## Our style of learning
 
 we will first learn about problem and then way to solve that problem with code.
 
-## Three type of design pattern
+## Design pattern are categorise into 3 type:
 
 1. Creational pattern
 1. Structural pattern
