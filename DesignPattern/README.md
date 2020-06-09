@@ -1,8 +1,19 @@
 # Design Pattern
 
-Design pattern describe simple and elegant solution to specific problem in object-oriented software solution.
-Design patterns can be implement in any standard object-oriented language like C++, Java, c# etc.
-It can take a little more work. but this effort will increase code flexibility and reusability.
+- Design pattern describe simple and elegant solution to specific problem in object-oriented software solution.
+- It make our code more flexibility, extensibility, or portability.
+- Design patterns can be implement in any standard object-oriented language like C++, Java, c# etc.
+- It can take a little more work. but this effort will increase code flexibility and reusability.
+
+Design pattern solve the most common problem face in developing software.
+
+"Each pattern describes a problem which occurs over and over again in our environment, and then describes the core of the solution to that problem, in such a way that you can use this solution a million times over, without ever doing it the same way twice" by Alexander.
+
+In general, a pattern has four essential elements:
+- Pattern Name : use to describe problem and solution.
+- Problem Statement: describe when to apply pattern.
+- Solution: describe way to solve problem
+- Consequences: are the result and trade-offs of applying pattern.
 
 ## Our style of learning
 
